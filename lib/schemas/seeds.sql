@@ -1,3 +1,4 @@
+-- Inserts into department column
 INSERT INTO department (name, utilized_budget)
 VALUES ('Sales', 450000);
 
