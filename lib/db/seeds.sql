@@ -12,28 +12,28 @@ INSERT INTO department (name, utilized_budget)
 VALUES ('Legal', 300000);
 
 INSERT INTO role (title, salary, department_id)
-VALUES('Sales Manager', 280.000, 1);
+VALUES('Sales Manager', 280000, 1);
 
 INSERT INTO role (title, salary, department_id)
-VALUES('Sales Representative', 170.000, 1);
+VALUES('Sales Representative', 170000, 1);
 
 INSERT INTO role (title, salary, department_id)
-VALUES('Engineering Manager', 180.000, 2);
+VALUES('Engineering Manager', 180000, 2);
 
 INSERT INTO role (title, salary, department_id)
-VALUES('Software Engineer', 120.000, 2);
+VALUES('Software Engineer', 120000, 2);
 
 INSERT INTO role (title, salary, department_id)
-VALUES('Accounting Manager', 120.00, 3);
+VALUES('Accounting Manager', 120000, 3);
 
 INSERT INTO role (title, salary, department_id)
-VALUES('Accountant', 100.000, 3);
+VALUES('Accountant', 100000, 3);
 
 INSERT INTO role (title, salary, department_id)
-VALUES('Lawyer', 120.000, 4);
+VALUES('Lawyer', 120000, 4);
 
 INSERT INTO role (title, salary, department_id)
-VALUES('Attorney', 130.000, 4);
+VALUES('Attorney', 130000, 4);
 
 -- General delete syntax
 SET SQL_SAFE_UPDATES = 0;
