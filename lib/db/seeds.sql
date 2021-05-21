@@ -15,7 +15,7 @@ VALUES
 ('Accounting Manager', 120000, 3),
 ('Accountant', 100000, 3),
 ('Lawyer', 120000, 4),
-VALUES('Attorney', 130000, 4);
+('Attorney', 130000, 4);
 
 -- General delete syntax
 SET SQL_SAFE_UPDATES = 0;
